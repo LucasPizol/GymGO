@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019814912101",
+    "project_id": "gymgo-25a60",
+    "storage_bucket": "gymgo-25a60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019814912101:android:d85c615cc4889cbf1e268c",
+        "android_client_info": {
+          "package_name": "com.lucaspizol.gymgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMumtCLeZnxsfL1eYcNwpUoooM8Upn-vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
